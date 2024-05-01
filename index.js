@@ -8,3 +8,7 @@ function isAbove18(){
 function sum(a,b){
     return a+b;
 }
+let j="jl";
+function mul(a,b){
+    return a*b;
+}
