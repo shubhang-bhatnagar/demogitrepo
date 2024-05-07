@@ -12,3 +12,4 @@ let j="jl";
 function mul(a,b){
     return a*b;
 }
+console.log("sdfghj");
