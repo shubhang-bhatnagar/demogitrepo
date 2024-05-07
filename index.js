@@ -13,3 +13,4 @@ function mul(a,b){
     return a*b;
 }
 console.log("sdfghj");
+console.log("hello");
